@@ -1,5 +1,10 @@
 # Assignment5
 
+student name:suneel kumar reddy katikareddy
+id: 700756639
+
+video link: https://drive.google.com/file/d/1GNyQXpRDxUiY8oSYLeJNX8ZBzf8_TEK4/view?usp=drive_link
+
 1. Implement Naïve Bayes method using scikit-learn library Use dataset available with name glass Use train_test_split to create training and testing part Evaluate the model on test part using score and classification_report(y_true, y_pred)
 
 
